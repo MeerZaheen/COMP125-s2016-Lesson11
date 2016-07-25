@@ -1,7 +1,7 @@
 /**
  * FileName: app.js
  * 
- * @author Tom Tsiliopoulos
+ * @author Meer Zaheen Nazmul
  * @date July 25, 2016
  * 
  * StudentID: 300818557
@@ -106,8 +106,7 @@
 
         // JQUERY STUFF GOES HERE
 
-        
-
+        $("#firstH1").text("Hello World!").css("color","red");
 
     }
 
